@@ -23,5 +23,5 @@ def self.print_all
 
   def save
     @@all << self
-  end 
+  end
 end
